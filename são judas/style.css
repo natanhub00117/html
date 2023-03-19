@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body{
+        
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+} 
+.padrao{
+    background-color: rgb(199, 230, 199);
+    margin: -5px;
+}
+ h1 {
+    
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+ } 
+h2 {
+    color: rgb(16, 32, 0);
+    font-family: 'Times New Roman', Times, serif;
+
+ }
+ p{
+    color: rgba(0, 2, 2, 0.973);
+    font-family: 'Courier New', Courier, monospaco;
+ }
+.borda1{
+    border:solid 25px red;
+}
+img {
+    justify-content: center;
+
+}
+.test{
+    background-color: red;
+    margin: -20px;
+}
+.margeimagem{
+    margin-left: 25px;
+    margin-top: px;
+    
+}
